@@ -1,0 +1,5 @@
+1.constructor has the same name with class name and no return type
+2.there are different constructors
+1.default construcor
+2.parameterised constructor
+3.no parameter constructor
